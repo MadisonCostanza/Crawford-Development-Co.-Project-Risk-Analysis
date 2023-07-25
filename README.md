@@ -56,4 +56,4 @@ Choosing the correct project was critical for both Crawford Development Co. and 
 
 Given the large loan amount involved ($38.375 million), Crawford could stand to lose millions of dollars if the risk was not properly assessed, and the less profitable option was chosen. Southeast Bank of Texas could also face significant financial losses if CDC's project failed to perform as expected.
 
-The decision would require a thorough technical analysis in R, considering various economic indicators, construction costs, and market projections to make an informed choice that aligns the interests of Crawford Development Co. and the bank. Both parties needed to carefully weigh the risks and rewards before proceeding with the loan and development.
+The decision would require a thorough technical analysis in R, considering various economic indicators, historical and projected sales, construction costs, and market projections to make an informed choice that aligns the interests of Crawford Development Co. and the bank. Both parties needed to carefully weigh the risks and rewards before proceeding with the loan and development.
